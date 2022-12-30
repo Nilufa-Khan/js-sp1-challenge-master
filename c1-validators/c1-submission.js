@@ -6,6 +6,7 @@ let city = "San Jose";
 let state = "California";
 let postalCode = "CA";
 
+
 // Provide solution code here for Validating FirstName
 
 if(firstName != null){

@@ -4,6 +4,7 @@ let n = 31052022;
 let sum = 0;
 let sum2 = 0;
 while(n != 0){
+
     
         sum=(sum + (n % 10));
         n = parseInt( n /10);
