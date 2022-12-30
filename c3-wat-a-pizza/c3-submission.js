@@ -12,6 +12,7 @@ let noOfBeveragesOrdered  = 10;
 let beveragePrice = 1.99;
 
 
+
 // define function displayCustomerDetails() to display the details of customer passed as parameters.
 function displayCustomerDetails(name, email, phoneNo, address){
     console.log("Name of the cutomer is       : "+ name);
